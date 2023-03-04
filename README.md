@@ -1,1 +1,1 @@
-# FoodWasteManagement
+# iwp-proj-food-waste
